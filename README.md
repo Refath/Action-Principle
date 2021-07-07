@@ -2,8 +2,8 @@
 
 ## 3 Simulations designed to help students understand the Principle of Least Action.
 
-** Created by Refath Bari **
-** Submitted to the *American Association of Physics Teachers TPT Journal* **
+**Created by Refath Bari**
+Submitted to the *American Association of Physics Teachers TPT Journal*
 
 ### Reflection in Equal Angles
 1. Enable students to verify or derive $\theta_i = \theta_r$
