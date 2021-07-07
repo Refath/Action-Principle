@@ -1,8 +1,9 @@
 # The Action Principle
 
 ## 3 Simulations designed to help students understand the Principle of Least Action.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Refath/ActionPrinciple/HEAD)
 Created by Refath Bari & Submitted to the *American Association of Physics Teachers TPT Journal*
+
+Simulations: **[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Refath/ActionPrinciple/HEAD)**
 
 ### Reflection in Equal Angles
 1. Enable students to verify or derive $\theta_i = \theta_r$
