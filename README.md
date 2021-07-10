@@ -1,6 +1,6 @@
 # The Action Principle
 
-| Welcome! | Simulations Link Below |
+| Welcome! | Simulations :point_down: |
 | :---:        |     :---:      |
 | Play with the simulations here:  | **[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Refath/ActionPrinciple/HEAD)**  |
 
