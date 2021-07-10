@@ -1,6 +1,12 @@
 # The Action Principle
 ```+ Play with the simulations here :point_right:**  **[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Refath/ActionPrinciple/HEAD)**```
-
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 ## 3 Simulations designed to help students understand the Principle of Least Action.
 Created by Refath Bari & Submitted to the *American Association of Physics Teachers TPT Journal*
 
