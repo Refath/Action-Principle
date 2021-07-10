@@ -1,8 +1,7 @@
 # The Action Principle
 ```diff
-+ Play with the simulations here: 
++ Play with the simulations here: **[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Refath/ActionPrinciple/HEAD)**
 ```
-**[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Refath/ActionPrinciple/HEAD)**
 ## 3 Simulations designed to help students understand the Principle of Least Action.
 Created by Refath Bari & Submitted to the *American Association of Physics Teachers TPT Journal*
 
